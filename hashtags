@@ -1,16 +1,1 @@
-query = [
-#AI and #ML OR
-#ML and #MLOps OR
-#ML and #MlOps OR   
-#Climateaction and #Climatechange and #Climatecrisis OR 
-#layoff and #hiring and #hire and #Jobopening and #Jobseekers OR 
-#Rmarkdown and #Rstats OR
-#Rpackage and #Rstats OR  
-#Tidytuesday and #Tidyverse OR
-#Tidymodels and #Tidyverse OR
-#Dataanalytics and #Dataengineering OR 
-#Dataanalysis and #Dataengineering OR 
-#Datavis and #Datavisualization and #Dataviz OR
-#PyData and #Python OR
-#PySpark and #Python OR
-#Python and #PyTorch]
+"AI OR 100DaysOfCode OR 100DaysOfMLCode OR AIArt OR AIcareers OR AIJobs OR Algorithms OR analytics OR artificalintelligence OR Artificial_Intelligence OR ArtificialIntelligence OR BigData OR ChatGPT OR DataAnalytics OR DataJobs OR datascience OR DataScientist OR DataScientists OR datavisualization OR DeepLearning OR DEVCommunity OR digitaltransformation OR futureofwork OR IIoT OR IoT OR JavaScript OR MachineLearning OR ML OR MLjobs OR MLOps OR NaturalLanguageProcessing OR NeuralNetworks OR NLP OR OpenAI OR PredictiveAnalytics OR programming OR Python OR Pytorch OR Reactjs OR robotics OR rstats OR serverless OR TensorFlow OR WomenWhoCode OR	Climateaction OR	Climatecrisis OR	Climatechange OR	Rmarkdown OR	Rpackage OR	Tidytuesday OR	Tidyverse OR	Tidymodels OR	Dataviz"
